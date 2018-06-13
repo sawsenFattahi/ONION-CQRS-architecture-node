@@ -1,2 +1,2 @@
-# ONION-CQRS-architecture-node
-Applying simplified CQRS and ONION patterns in a microservice using Node JS KOA and Mongoose
+# node-server-koa-mongoose
+API REST with node JS, KOA, Mongoose using Onion &amp; CQRS
